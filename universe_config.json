@@ -1,0 +1,11 @@
+{
+  "active_assets": [
+    "AAPL",
+    "MSFT",
+    "GOOGL"
+  ],
+  "delisted_historical_assets": [
+    "SIVBQ",
+    "FRCBQ"
+  ]
+}

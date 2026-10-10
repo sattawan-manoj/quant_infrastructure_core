@@ -1,0 +1,122 @@
+[
+    {
+        "alpha_pair_identity": "BTC_ETH",
+        "raw_unadjusted_p_value": 0.000834,
+        "fdr_corrected_p_value": 0.008856,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_SOL",
+        "raw_unadjusted_p_value": 0.000911,
+        "fdr_corrected_p_value": 0.009112,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_XRP",
+        "raw_unadjusted_p_value": 0.000662,
+        "fdr_corrected_p_value": 0.008856,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_ADA",
+        "raw_unadjusted_p_value": 0.000133,
+        "fdr_corrected_p_value": 0.007812,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_DOT",
+        "raw_unadjusted_p_value": 0.000623,
+        "fdr_corrected_p_value": 0.008856,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_LINK",
+        "raw_unadjusted_p_value": 0.000825,
+        "fdr_corrected_p_value": 0.008856,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_AVAX",
+        "raw_unadjusted_p_value": 0.000698,
+        "fdr_corrected_p_value": 0.008856,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_MATIC",
+        "raw_unadjusted_p_value": 0.000441,
+        "fdr_corrected_p_value": 0.008856,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_LTC",
+        "raw_unadjusted_p_value": 0.000164,
+        "fdr_corrected_p_value": 0.007812,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_UNI",
+        "raw_unadjusted_p_value": 0.000822,
+        "fdr_corrected_p_value": 0.008856,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_ATOM",
+        "raw_unadjusted_p_value": 0.000344,
+        "fdr_corrected_p_value": 0.008856,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_ALGO",
+        "raw_unadjusted_p_value": 3.4e-05,
+        "fdr_corrected_p_value": 0.006548,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_XLM",
+        "raw_unadjusted_p_value": 0.000745,
+        "fdr_corrected_p_value": 0.008856,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_BCH",
+        "raw_unadjusted_p_value": 0.000282,
+        "fdr_corrected_p_value": 0.008856,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_FIL",
+        "raw_unadjusted_p_value": 0.000275,
+        "fdr_corrected_p_value": 0.008856,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_VET",
+        "raw_unadjusted_p_value": 0.000963,
+        "fdr_corrected_p_value": 0.009153,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_TRX",
+        "raw_unadjusted_p_value": 0.000802,
+        "fdr_corrected_p_value": 0.008856,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_ICP",
+        "raw_unadjusted_p_value": 0.000143,
+        "fdr_corrected_p_value": 0.007812,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "BTC_NEAR",
+        "raw_unadjusted_p_value": 0.000743,
+        "fdr_corrected_p_value": 0.008856,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    },
+    {
+        "alpha_pair_identity": "ETH_SOL",
+        "raw_unadjusted_p_value": 0.000839,
+        "fdr_corrected_p_value": 0.008856,
+        "structural_stationarity_status": "VERIFIED_ALPHA"
+    }
+]

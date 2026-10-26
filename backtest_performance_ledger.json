@@ -1,0 +1,329 @@
+{
+    "global_portfolio_meta": {
+        "system_concentration_ratio": 0.0702,
+        "total_assets_validated": 20,
+        "status": "COMPUTATIONAL_CORE_LOCKED"
+    },
+    "optimized_parameters_ledger_matrix": {
+        "RANDOM_ASSET_1": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.027254,
+                "max_historical_drawdown_pct": -22.97,
+                "final_wealth_peak": 0.859
+            }
+        },
+        "RANDOM_ASSET_2": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.023542,
+                "max_historical_drawdown_pct": -21.89,
+                "final_wealth_peak": 1.4381
+            }
+        },
+        "RANDOM_ASSET_3": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.021575,
+                "max_historical_drawdown_pct": -29.25,
+                "final_wealth_peak": 1.1838
+            }
+        },
+        "RANDOM_ASSET_4": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.024756,
+                "max_historical_drawdown_pct": -16.84,
+                "final_wealth_peak": 0.999
+            }
+        },
+        "RANDOM_ASSET_5": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.021563,
+                "max_historical_drawdown_pct": -21.07,
+                "final_wealth_peak": 1.1642
+            }
+        },
+        "RANDOM_ASSET_6": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.023159,
+                "max_historical_drawdown_pct": -29.11,
+                "final_wealth_peak": 1.0227
+            }
+        },
+        "RANDOM_ASSET_7": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.023408,
+                "max_historical_drawdown_pct": -17.54,
+                "final_wealth_peak": 0.8997
+            }
+        },
+        "RANDOM_ASSET_8": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.023004,
+                "max_historical_drawdown_pct": -27.92,
+                "final_wealth_peak": 0.8357
+            }
+        },
+        "RANDOM_ASSET_9": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.02879,
+                "max_historical_drawdown_pct": -22.5,
+                "final_wealth_peak": 1.1736
+            }
+        },
+        "RANDOM_ASSET_10": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.021992,
+                "max_historical_drawdown_pct": -24.56,
+                "final_wealth_peak": 1.0092
+            }
+        },
+        "RANDOM_ASSET_11": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.021844,
+                "max_historical_drawdown_pct": -28.7,
+                "final_wealth_peak": 0.8948
+            }
+        },
+        "RANDOM_ASSET_12": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.015275,
+                "max_historical_drawdown_pct": -14.86,
+                "final_wealth_peak": 1.2449
+            }
+        },
+        "RANDOM_ASSET_13": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.020593,
+                "max_historical_drawdown_pct": -23.37,
+                "final_wealth_peak": 0.8283
+            }
+        },
+        "RANDOM_ASSET_14": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.022743,
+                "max_historical_drawdown_pct": -23.66,
+                "final_wealth_peak": 1.2566
+            }
+        },
+        "RANDOM_ASSET_15": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.019281,
+                "max_historical_drawdown_pct": -14.07,
+                "final_wealth_peak": 1.3079
+            }
+        },
+        "RANDOM_ASSET_16": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.021556,
+                "max_historical_drawdown_pct": -16.21,
+                "final_wealth_peak": 1.1136
+            }
+        },
+        "RANDOM_ASSET_17": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.021754,
+                "max_historical_drawdown_pct": -25.46,
+                "final_wealth_peak": 1.3506
+            }
+        },
+        "RANDOM_ASSET_18": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.022404,
+                "max_historical_drawdown_pct": -22.15,
+                "final_wealth_peak": 1.4035
+            }
+        },
+        "RANDOM_ASSET_19": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.024558,
+                "max_historical_drawdown_pct": -43.44,
+                "final_wealth_peak": 0.594
+            }
+        },
+        "RANDOM_ASSET_20": {
+            "ols_estimation_parameters": {
+                "inversion_stability_pass": false,
+                "dynamic_calculated_hedge_ratio": 0.0
+            },
+            "false_discovery_rate_fdr_shield": {
+                "raw_calculated_p_value": 1.0,
+                "benjamini_hochberg_reject_null": false
+            },
+            "risk_and_allocation_shields": {
+                "fractional_kelly_weight": 0.0,
+                "95_pct_cvar_expected_shortfall": 0.025154,
+                "max_historical_drawdown_pct": -38.38,
+                "final_wealth_peak": 0.7687
+            }
+        }
+    }
+}
